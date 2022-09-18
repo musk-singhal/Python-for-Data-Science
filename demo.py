@@ -1,3 +1,3 @@
 print('Hello World!')
-print('chaneg_to_test_git')
+print('change_to_test_git')
 print('done')
